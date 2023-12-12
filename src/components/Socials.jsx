@@ -2,12 +2,12 @@ import React from "react";
 
 const socialData = [
   {
-    name: "linkedin",
-    link: "#",
+    name: "tlx toki",
+    link: "https://tlx.toki.id/profiles/Kol",
   },
   {
     name: "github",
-    link: "#",
+    link: "https://github.com/Krypztyk",
   },
   {
     name: "twitter",
@@ -15,10 +15,10 @@ const socialData = [
   },
   {
     name: "instagram",
-    link: "#",
+    link: "https://www.instagram.com/kentoadddd_/",
   },
   {
-    name: "behance",
+    name: "tryhackme",
     link: "#",
   },
   {
